@@ -2,7 +2,7 @@
 
 const num = document.getElementById("numberBox");
 
-function checkNum() {
+function checkNum(num) {
     if (num % 2 === 0 ) {
         console.log(`The number is even.`)
     } else {
