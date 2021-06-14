@@ -10,4 +10,4 @@ function checkNum() {
     }
 }
 
-checkNum(80);
+checkNum(8);
