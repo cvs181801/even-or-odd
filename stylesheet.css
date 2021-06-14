@@ -1,6 +1,6 @@
 :root {
-    --ff-Accent: 'Codystar', cursive;
-    --ff-Main: 'Meera Inimai', sans-serif;
+    --ff-Accent: 'Righteous', cursive;
+    --ff-Main: 'Tajawal', sans-serif;
 }
 
 html {
@@ -10,10 +10,10 @@ html {
 body {
     height: 200px;
     background: red; /* For browsers that do not support gradients */
-    background: rgba(229, 22, 203, 1.0);
-    background: -webkit-linear-gradient(top right, rgba(229, 22, 203, 1.0), rgba(98, 143, 241, 1.0));
-    background: -moz-linear-gradient(top right, rgba(229, 22, 203, 1.0), rgba(98, 143, 241, 1.0));
-    background: linear-gradient(to bottom left, rgba(229, 22, 203, 1.0), rgba(98, 143, 241, 1.0));
+    background: rgba(104, 10, 172, 1.0);
+    background: -webkit-linear-gradient(top right, rgba(104, 10, 172, 1.0), rgba(84, 210, 207, 1.0));
+    background: -moz-linear-gradient(top right, rgba(104, 10, 172, 1.0), rgba(84, 210, 207, 1.0));
+    background: linear-gradient(to bottom left, rgba(104, 10, 172, 1.0), rgba(84, 210, 207, 1.0));
     flex-direction: column;
     align-content: center;
     font-family: var(--ff-Main);
