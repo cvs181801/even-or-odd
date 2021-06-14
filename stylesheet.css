@@ -63,7 +63,7 @@ p {
     
 #go-btn {
     font-size: 2em;
-    font-family: var(--ff-Main);
+    font-family: var(--ff-Accent);
     background-color: rgb(54, 10, 163);
     color: white;
 }
